@@ -1,6 +1,6 @@
 ## Hey there! 👋
 
-I am a MSc Data Science candidate at the University of Trieste & SISSA in Trieste, Italy 🇮🇹. My pronouns are he/him.
+I am a MSc Data Science graduate from the University of Trieste & SISSA in Trieste, Italy 🇮🇹. My pronouns are he/him.
 
 - **Currently working on:** NLP approaches for linguistic complexity assessment with cognitive processing signals 🧠
 
