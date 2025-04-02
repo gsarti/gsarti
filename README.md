@@ -1,5 +1,3 @@
-<h1 align="center">Welcome! 🙌</h1>
-
 <p align="center">
   <a href="https://gsarti.com"><img alt="Portfolio" title="Portfolio" src="https://tinyurl.com/gsarti-shield"></a>
   <a href="https://huggingface.co/gsarti"><img alt="Huggingface Hub" title="Huggingface Hub" src="https://tinyurl.com/hf-shield"></a>
